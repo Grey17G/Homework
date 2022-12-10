@@ -1,0 +1,8 @@
+n = int(input("Enter: "))
+if (N>0 and N<10):
+    i = -n
+    While (i<=N):
+          print(i,end=" ")
+          i=i+1
+else:
+    print("Your number is not from 1 to 9")          
